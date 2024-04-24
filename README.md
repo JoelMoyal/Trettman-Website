@@ -1,9 +1,11 @@
+> Project status: Final.
+
 ## Trettman Website
 The website is a project to learn to create websites with guidance from W3Schools.
 
 ## Screenshots
 
- img/trettman.png
+ ![Image of Website](img/trettman.png)
 
 ## Installation
 1. Clone the repository:
