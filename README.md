@@ -2,6 +2,7 @@
 The website is a project to learn to create websites with guidance from W3Schools.
 
 ## Screenshots
+
  img/trettman.png
 
 ## Installation
